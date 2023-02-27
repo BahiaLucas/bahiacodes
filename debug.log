@@ -1,0 +1,55 @@
+[0615/182610.105:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.107:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.107:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:exception_snapshot_win.cc(99)] thread ID 14612 not found in process
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.108:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.243:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.244:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.244:ERROR:process_reader_win.cc(155)] SuspendThread: Acesso negado. (0x5)
+[0615/182610.242:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.244:ERROR:exception_snapshot_win.cc(99)] thread ID 10640 not found in process
+[0615/182610.244:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.247:ERROR:exception_snapshot_win.cc(99)] thread ID 992 not found in process
+[0615/182610.276:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.280:ERROR:exception_snapshot_win.cc(99)] thread ID 15992 not found in process
+[0615/182610.308:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.309:ERROR:exception_snapshot_win.cc(99)] thread ID 14504 not found in process
+[0615/182610.463:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.463:ERROR:exception_snapshot_win.cc(99)] thread ID 452 not found in process
+[0615/182610.502:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.502:ERROR:exception_snapshot_win.cc(99)] thread ID 14848 not found in process
+[0615/182610.519:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.533:ERROR:exception_snapshot_win.cc(99)] thread ID 9028 not found in process
+[0615/182610.683:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.684:ERROR:exception_snapshot_win.cc(99)] thread ID 2008 not found in process
+[0615/182610.866:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.867:ERROR:exception_snapshot_win.cc(99)] thread ID 11360 not found in process
+[0615/182610.883:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182610.883:ERROR:exception_snapshot_win.cc(99)] thread ID 14988 not found in process
+[0615/182611.170:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
+[0615/182611.170:ERROR:exception_snapshot_win.cc(99)] thread ID 6552 not found in process
+[0706/231028.316:ERROR:process_reader_win.cc(127)] NtOpenThread: {Acesso Negado} Um processo solicitou acesso a um objeto, mas o direito de acesso não lhe foi concedido. (0xc0000022)
